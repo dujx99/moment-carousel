@@ -14,4 +14,7 @@ export const musics = [
 	'/musics/11.mp3',
 	'/musics/12.mp3',
 	'/musics/13.mp3',
+	'/musics/14.mp3',
+	'/musics/15.mp3',
+	'/musics/16.mp3',
 ]
